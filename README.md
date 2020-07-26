@@ -7,3 +7,5 @@ Cette application est développée avec Java 8, et manipule une base de données
 ![menu](https://user-images.githubusercontent.com/58120092/88485120-ee095880-cf73-11ea-8737-c1c55c64a6dd.PNG)
 
 ![listefacture](https://user-images.githubusercontent.com/58120092/88485150-21e47e00-cf74-11ea-8523-af1a205ac0a5.PNG)
+
+![creerfacture](https://user-images.githubusercontent.com/58120092/88485206-71c34500-cf74-11ea-8333-446a5da1a0f0.PNG)
